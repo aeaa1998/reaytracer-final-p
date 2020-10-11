@@ -6,14 +6,14 @@
 
 
 #include "Camera.h"
-#include "aarect.h"
+#include "shapes/aarect.h"
 #include "color.h"
 #include "Scene.h"
 #include "material.h"
-#include "Sphere.h"
-#include "triangle.h"
+#include "shapes/Sphere.h"
+#include "shapes/triangle.h"
 #include <pthread.h>
-#include "box.h"
+#include "shapes/box.h"
 #include "omp.h"
 //#include "omp-tools.h"
 //#include "ompt.h"
@@ -195,7 +195,7 @@ int main() {
     clock_t t1, t2;
     t1 = clock();
     const auto aspect_ratio = 1 / 1;
-    image_width = 500;
+    image_width = 100;
     image_height = static_cast<int>(image_width / aspect_ratio);
     samples_per_pixel = 1;
     max_depth = 4000;

@@ -5,10 +5,10 @@
 //
 
 
-#include "utils.h"
+#include "../utils.h"
 
 #include "aarect.h"
-#include "Scene.h"
+#include "../Scene.h"
 
 
 class box : public Shape  {

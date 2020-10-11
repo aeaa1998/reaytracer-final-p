@@ -3,7 +3,7 @@
 //
 #ifndef SPHERE_H
 #define SPHERE_H
-#include "utils.h"
+#include "../utils.h"
 
 #include "Shape.h"
 

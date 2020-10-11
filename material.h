@@ -5,7 +5,7 @@
 //
 #include "utils.h"
 
-#include "Shape.h"
+#include "shapes/Shape.h"
 #include "Texture.h"
 
 

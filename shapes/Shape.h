@@ -4,7 +4,7 @@
 #ifndef HITTABLE_H
 #define HITTABLE_H
 
-#include "utils.h"
+#include "../utils.h"
 
 #include "AABB.h"
 

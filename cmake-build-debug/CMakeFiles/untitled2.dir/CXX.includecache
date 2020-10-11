@@ -6,73 +6,43 @@
 
 #IncludeRegexTransform: 
 
-/Users/tito/CLionProjects/untitled2/AABB.h
+/Users/tito/CLionProjects/untitled2 copy/Camera.h
 utils.h
-/Users/tito/CLionProjects/untitled2/utils.h
+/Users/tito/CLionProjects/untitled2 copy/utils.h
 
-/Users/tito/CLionProjects/untitled2/Camera.h
-utils.h
-/Users/tito/CLionProjects/untitled2/utils.h
-
-/Users/tito/CLionProjects/untitled2/Ray.h
+/Users/tito/CLionProjects/untitled2 copy/Ray.h
 vec3.h
-/Users/tito/CLionProjects/untitled2/vec3.h
+/Users/tito/CLionProjects/untitled2 copy/vec3.h
 
-/Users/tito/CLionProjects/untitled2/Scene.h
+/Users/tito/CLionProjects/untitled2 copy/Scene.h
 utils.h
-/Users/tito/CLionProjects/untitled2/utils.h
-Shape.h
-/Users/tito/CLionProjects/untitled2/Shape.h
+/Users/tito/CLionProjects/untitled2 copy/utils.h
+shapes/Shape.h
+/Users/tito/CLionProjects/untitled2 copy/shapes/Shape.h
 vector
 -
 
-/Users/tito/CLionProjects/untitled2/Shape.h
+/Users/tito/CLionProjects/untitled2 copy/Texture.h
 utils.h
-/Users/tito/CLionProjects/untitled2/utils.h
-AABB.h
-/Users/tito/CLionProjects/untitled2/AABB.h
-
-/Users/tito/CLionProjects/untitled2/Sphere.h
-utils.h
-/Users/tito/CLionProjects/untitled2/utils.h
-Shape.h
-/Users/tito/CLionProjects/untitled2/Shape.h
-
-/Users/tito/CLionProjects/untitled2/Texture.h
-utils.h
-/Users/tito/CLionProjects/untitled2/utils.h
+/Users/tito/CLionProjects/untitled2 copy/utils.h
 perlin.h
-/Users/tito/CLionProjects/untitled2/perlin.h
+/Users/tito/CLionProjects/untitled2 copy/perlin.h
 rtw_stb_image.h
-/Users/tito/CLionProjects/untitled2/rtw_stb_image.h
+/Users/tito/CLionProjects/untitled2 copy/rtw_stb_image.h
 iostream
 -
 
-/Users/tito/CLionProjects/untitled2/aarect.h
-utils.h
-/Users/tito/CLionProjects/untitled2/utils.h
-Shape.h
-/Users/tito/CLionProjects/untitled2/Shape.h
-
-/Users/tito/CLionProjects/untitled2/box.h
-utils.h
-/Users/tito/CLionProjects/untitled2/utils.h
-aarect.h
-/Users/tito/CLionProjects/untitled2/aarect.h
-Scene.h
-/Users/tito/CLionProjects/untitled2/Scene.h
-
-/Users/tito/CLionProjects/untitled2/color.h
+/Users/tito/CLionProjects/untitled2 copy/color.h
 vec3.h
-/Users/tito/CLionProjects/untitled2/vec3.h
+/Users/tito/CLionProjects/untitled2 copy/vec3.h
 vector
-/Users/tito/CLionProjects/untitled2/vector
+/Users/tito/CLionProjects/untitled2 copy/vector
 iostream
 -
 
-/Users/tito/CLionProjects/untitled2/external/stb_image.h
+/Users/tito/CLionProjects/untitled2 copy/external/stb_image.h
 stb_image.h
-/Users/tito/CLionProjects/untitled2/external/stb_image.h
+/Users/tito/CLionProjects/untitled2 copy/external/stb_image.h
 stdio.h
 -
 stdarg.h
@@ -98,61 +68,91 @@ intrin.h
 arm_neon.h
 -
 
-/Users/tito/CLionProjects/untitled2/main.cpp
+/Users/tito/CLionProjects/untitled2 copy/main.cpp
 utils.h
-/Users/tito/CLionProjects/untitled2/utils.h
+/Users/tito/CLionProjects/untitled2 copy/utils.h
 Camera.h
-/Users/tito/CLionProjects/untitled2/Camera.h
-aarect.h
-/Users/tito/CLionProjects/untitled2/aarect.h
+/Users/tito/CLionProjects/untitled2 copy/Camera.h
+shapes/aarect.h
+/Users/tito/CLionProjects/untitled2 copy/shapes/aarect.h
 color.h
-/Users/tito/CLionProjects/untitled2/color.h
+/Users/tito/CLionProjects/untitled2 copy/color.h
 Scene.h
-/Users/tito/CLionProjects/untitled2/Scene.h
+/Users/tito/CLionProjects/untitled2 copy/Scene.h
 material.h
-/Users/tito/CLionProjects/untitled2/material.h
-Sphere.h
-/Users/tito/CLionProjects/untitled2/Sphere.h
-triangle.h
-/Users/tito/CLionProjects/untitled2/triangle.h
+/Users/tito/CLionProjects/untitled2 copy/material.h
+shapes/Sphere.h
+/Users/tito/CLionProjects/untitled2 copy/shapes/Sphere.h
+shapes/triangle.h
+/Users/tito/CLionProjects/untitled2 copy/shapes/triangle.h
 pthread.h
 -
-box.h
-/Users/tito/CLionProjects/untitled2/box.h
+shapes/box.h
+/Users/tito/CLionProjects/untitled2 copy/shapes/box.h
 omp.h
-/Users/tito/CLionProjects/untitled2/omp.h
+/Users/tito/CLionProjects/untitled2 copy/omp.h
 vector
-/Users/tito/CLionProjects/untitled2/vector
+/Users/tito/CLionProjects/untitled2 copy/vector
 iostream
 -
 
-/Users/tito/CLionProjects/untitled2/material.h
+/Users/tito/CLionProjects/untitled2 copy/material.h
 utils.h
-/Users/tito/CLionProjects/untitled2/utils.h
-Shape.h
-/Users/tito/CLionProjects/untitled2/Shape.h
+/Users/tito/CLionProjects/untitled2 copy/utils.h
+shapes/Shape.h
+/Users/tito/CLionProjects/untitled2 copy/shapes/Shape.h
 Texture.h
-/Users/tito/CLionProjects/untitled2/Texture.h
+/Users/tito/CLionProjects/untitled2 copy/Texture.h
 
-/Users/tito/CLionProjects/untitled2/perlin.h
+/Users/tito/CLionProjects/untitled2 copy/perlin.h
 utils.h
-/Users/tito/CLionProjects/untitled2/utils.h
+/Users/tito/CLionProjects/untitled2 copy/utils.h
 
-/Users/tito/CLionProjects/untitled2/rtw_stb_image.h
+/Users/tito/CLionProjects/untitled2 copy/rtw_stb_image.h
 external/stb_image.h
-/Users/tito/CLionProjects/untitled2/external/stb_image.h
+/Users/tito/CLionProjects/untitled2 copy/external/stb_image.h
 
-/Users/tito/CLionProjects/untitled2/triangle.h
-vec3.h
-/Users/tito/CLionProjects/untitled2/vec3.h
+/Users/tito/CLionProjects/untitled2 copy/shapes/AABB.h
+../utils.h
+/Users/tito/CLionProjects/untitled2 copy/utils.h
+
+/Users/tito/CLionProjects/untitled2 copy/shapes/Shape.h
+../utils.h
+/Users/tito/CLionProjects/untitled2 copy/utils.h
+AABB.h
+/Users/tito/CLionProjects/untitled2 copy/shapes/AABB.h
+
+/Users/tito/CLionProjects/untitled2 copy/shapes/Sphere.h
+../utils.h
+/Users/tito/CLionProjects/untitled2 copy/utils.h
 Shape.h
-/Users/tito/CLionProjects/untitled2/Shape.h
-material.h
-/Users/tito/CLionProjects/untitled2/material.h
-Ray.h
-/Users/tito/CLionProjects/untitled2/Ray.h
+/Users/tito/CLionProjects/untitled2 copy/shapes/Shape.h
 
-/Users/tito/CLionProjects/untitled2/utils.h
+/Users/tito/CLionProjects/untitled2 copy/shapes/aarect.h
+../utils.h
+/Users/tito/CLionProjects/untitled2 copy/utils.h
+Shape.h
+/Users/tito/CLionProjects/untitled2 copy/shapes/Shape.h
+
+/Users/tito/CLionProjects/untitled2 copy/shapes/box.h
+../utils.h
+/Users/tito/CLionProjects/untitled2 copy/utils.h
+aarect.h
+/Users/tito/CLionProjects/untitled2 copy/shapes/aarect.h
+../Scene.h
+/Users/tito/CLionProjects/untitled2 copy/Scene.h
+
+/Users/tito/CLionProjects/untitled2 copy/shapes/triangle.h
+../vec3.h
+/Users/tito/CLionProjects/untitled2 copy/vec3.h
+Shape.h
+/Users/tito/CLionProjects/untitled2 copy/shapes/Shape.h
+../material.h
+/Users/tito/CLionProjects/untitled2 copy/material.h
+../Ray.h
+/Users/tito/CLionProjects/untitled2 copy/Ray.h
+
+/Users/tito/CLionProjects/untitled2 copy/utils.h
 cmath
 -
 cstdlib
@@ -162,11 +162,11 @@ limits
 memory
 -
 Ray.h
-/Users/tito/CLionProjects/untitled2/Ray.h
+/Users/tito/CLionProjects/untitled2 copy/Ray.h
 vec3.h
-/Users/tito/CLionProjects/untitled2/vec3.h
+/Users/tito/CLionProjects/untitled2 copy/vec3.h
 
-/Users/tito/CLionProjects/untitled2/vec3.h
+/Users/tito/CLionProjects/untitled2 copy/vec3.h
 cmath
 -
 iostream

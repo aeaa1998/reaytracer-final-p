@@ -6,10 +6,10 @@
 #define UNTITLED2_TRIANGLE_H
 
 
-#include "vec3.h"
+#include "../vec3.h"
 #include "Shape.h"
-#include "material.h"
-#include "Ray.h"
+#include "../material.h"
+#include "../Ray.h"
 #define K_EPSILON 0.00001
 class Triangle : public Shape  {
 public:
